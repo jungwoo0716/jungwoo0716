@@ -56,7 +56,7 @@ ogImage:
 
 ![](${basePath}/assets/blog/iso-3d-printing-tech/img1.jpg)  
 
-<div class="md:overflow-x-auto sm:hidden">
+<!-- <div class="md:overflow-x-auto sm:hidden">
   <table class="min-w-full divide-y divide-gray-200">
     <thead class="bg-gray-50">
       <tr>
@@ -205,7 +205,7 @@ ogImage:
       </tr>
     </tbody>
   </table>
-</div>
+</div> -->
 
 ## 마치며
 
