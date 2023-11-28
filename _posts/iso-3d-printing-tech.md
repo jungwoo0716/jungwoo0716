@@ -54,173 +54,6 @@ ogImage:
 
 3D프린터는 재료의 종류 및 형태나, 적층하는 방식, 적층을 위한 광원의 종류 등에 따라 다양하게 구분할 수 있습니다만, 국제 표준을 만들어가는 ISO 기준에서 3D 프린터는 아래의 7가지 방식으로 기술을 분류하며, 각 특징은 다음 표와 같습니다.
 
-<!-- component -->
-<div class="flex items-center justify-center">
-	<div class="container">
-		<table class="w-full flex flex-row flex-no-wrap sm:bg-white rounded-lg overflow-hidden sm:shadow-lg my-5">
-			<thead class="text-white">
-				<tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th class="p-3 text-left">Name</th>
-					<th class="p-3 text-left">Email</th>
-					<th class="p-3 text-left" width="110px">Actions</th>
-				</tr>
-				<tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th class="p-3 text-left">Name</th>
-					<th class="p-3 text-left">Email</th>
-					<th class="p-3 text-left" width="110px">Actions</th>
-				</tr>
-                <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-                  <th class="p-3 text-left">Name</th>
-                  <th class="p-3 text-left">Email</th>
-                  <th class="p-3 text-left" width="110px">Actions</th>
-              </tr>
-                <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-                  <th class="p-3 text-left">Name</th>
-                  <th class="p-3 text-left">Email</th>
-                  <th class="p-3 text-left" width="110px">Actions</th>
-              </tr>
-			</thead>
-			<tbody class="flex-1 sm:flex-none">
-				<tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-					<td class="border-grey-light border hover:bg-gray-100 p-3">John Covv</td>
-					<td class="border-grey-light border hover:bg-gray-100 p-3 truncate">contato@johncovv.com</td>
-					<td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
-				</tr>
-				<tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-					<td class="border-grey-light border hover:bg-gray-100 p-3">Michael Jackson</td>
-					<td class="border-grey-light border hover:bg-gray-100 p-3 truncate">m_jackson@mail.com</td>
-					<td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
-				</tr>
-                <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-                    <td class="border-grey-light border hover:bg-gray-100 p-3">Julia</td>
-                    <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">julia@mail.com</td>
-                    <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
-                </tr>
-                <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-                  <td class="border-grey-light border hover:bg-gray-100 p-3">Martin Madrazo</td>
-                  <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">martin.madrazo@mail.com</td>
-                  <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
-                </tr>
-			</tbody>
-		</table>
-	</div>
-</div>
-
-<style>  
-  @media (min-width: 640px) {
-    table {
-      display: inline-table !important;
-    }
-
-    thead tr:not(:first-child) {
-      display: none;
-    }
-  }
-
-  td:not(:last-child) {
-    border-bottom: 0;
-  }
-
-  th:not(:last-child) {
-    border-bottom: 2px solid rgba(0, 0, 0, .1);
-  }
-</style>
-
-{{< table "Column 1" "Column 2" "Column 3" "Column 4" >}}
-  {{< table-row >}}
-    {{% table-cell %}}Some random text{{% /table-cell %}}
-    {{% table-cell %}}Blah blah blah{{% /table-cell %}}
-    {{% table-cell %}}Random data here{{% /table-cell %}}
-    {{% table-cell %}}The fourth column{{% /table-cell %}}
-  {{< /table-row >}}
-  {{< table-row >}}
-    {{% table-cell %}}Another row{{% /table-cell %}}
-    {{% table-cell %}}Hey, why not?{{/*% /table-cell */%}}
-    {{% table-cell %}}Zebra stripes!{{% /table-cell %}}
-    {{% table-cell %}}End of the line{{% /table-cell %}}
-  {{< /table-row >}}
-{{< /table >}}
-
-
-<div class="container">
-    <table class="w-full flex flex-row flex-no-wrap sm:bg-white rounded-lg overflow-hidden sm:shadow-lg my-5">
-        <thead class="text-white">
-            <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-                <th class="p-3 text-left">명칭</th>
-                <th class="p-3 text-left">기술분류</th>
-                <th class="p-3 text-left">>설명</th>
-                <th class="p-3 text-left">>재료</th>
-            </tr>
-            <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-                <th class="p-3 text-left">명칭</th>
-                <th class="p-3 text-left">기술분류</th>
-                <th class="p-3 text-left">>설명</th>
-                <th class="p-3 text-left">>재료</th>
-            </tr>
-            <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-                <th class="p-3 text-left">명칭</th>
-                <th class="p-3 text-left">기술분류</th>
-                <th class="p-3 text-left">>설명</th>
-                <th class="p-3 text-left">>재료</th>
-            </tr>
-            <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-                <th class="p-3 text-left">명칭</th>
-                <th class="p-3 text-left">기술분류</th>
-                <th class="p-3 text-left">>설명</th>
-                <th class="p-3 text-left">>재료</th>
-            </tr>
-        </thead>
-        <tbody class="flex-1 sm:flex-none">
-            <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-                <td class="border-grey-light border hover:bg-gray-100 p-3">John Covv</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">contato@johncovv.com</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
-            </tr>
-            <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-                <td class="border-grey-light border hover:bg-gray-100 p-3">Michael Jackson</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">m_jackson@mail.com</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
-            </tr>
-            <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-                <td class="border-grey-light border hover:bg-gray-100 p-3">Julia</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">julia@mail.com</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
-            </tr>
-            <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-                <td class="border-grey-light border hover:bg-gray-100 p-3">Martin Madrazo</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">martin.madrazo@mail.com</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
-                <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
-<style>
-  @media (min-width: 640px) {
-    table {
-      display: inline-table !important;
-    }
-
-    thead tr:not(:first-child) {
-      display: none;
-    }
-  }
-
-  td:not(:last-child) {
-    border-bottom: 0;
-  }
-
-  th:not(:last-child) {
-    border-bottom: 2px solid rgba(0, 0, 0, .1);
-  }
-</style>
-
-
 <div class="overflow-x-auto">
   <table class="min-w-full divide-y divide-gray-200">
     <thead class="bg-gray-50">
@@ -245,13 +78,18 @@ ogImage:
           Binder Jetting
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          3DP(CJP), Ink-jetting, S-printer, M-printer
+          3DP(CJP)<br/> 
+          Ink-jetting<br/> 
+          S-printer<br/>
+          M-printer
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           파우더 형태의 재료를 접착제를 분사시켜 결합하여 물체를 형성
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          금속, 폴리머, 세라믹
+          금속<br/>
+          폴리머<br/>
+          세라믹
         </td>
       </tr>
       <tr>
@@ -259,13 +97,17 @@ ogImage:
           Material Jetting
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          PolyJet, Ink-jetting, Thermojet, MJM(MJP)
+          PolyJet<br/>
+          Ink-jetting<br/>
+          Thermojet<br/>
+          MJM(MJP)
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           액상재료를 프린팅 노즐을 통해 분사시켜 자외선으로 경화하여 물체를 형성
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          폴리머, 왁스
+          폴리머<br/>
+          왁스
         </td>
       </tr>
       <tr>
@@ -279,7 +121,8 @@ ogImage:
           고체 재료를 열을 이용하여 노즐을 통해 분사시켜 물체를 형성
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          폴리머, 나무 등
+          폴리머<br/>
+          나무 등
         </td>
       </tr>
       <tr>
@@ -287,13 +130,17 @@ ogImage:
           Direct Energy Deposition
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          Direct Metal Deposition, Laser Deposition, Laser Consolidation, Electron Beam Direct Melting
+          Direct Metal Deposition<br/>
+          Laser Deposition<br/>
+          Laser Consolidation<br/>
+          Electron Beam Direct Melting
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           레이저나 전자빔으로 재료를 직접 증착 또는 녹여 물체를 형성
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          금속, 와이어
+          금속<br/>
+          와이어
         </td>
       </tr>
       <tr>
@@ -315,13 +162,15 @@ ogImage:
           (Vat) Photopolymerisation
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          SLA, DLP
+          SLA<br/>
+          DLP
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           광, 레이저 조사로 액상 재료를 경화하여 물체를 형성
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          폴리머, 세라믹
+          폴리머<br/>
+          세라믹
         </td>
       </tr>
       <tr>
@@ -329,21 +178,21 @@ ogImage:
           Sheet Lamination
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          Ultrasonic Consolidation, LOM
+          Ultrasonic Consolidation<br/>
+          LOM
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           얇은 필름 형태의 재료를 칼이나 레이저로 가공하여 접착제 등으로 붙여 물체를 형성
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          Hybrids, Metallic, 세라믹
+          Hybrids<br/>
+          Metallic<br/>
+          세라믹
         </td>
       </tr>
     </tbody>
   </table>
 </div>
-
-
-  
 
 ## 마치며
 
