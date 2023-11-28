@@ -9,7 +9,6 @@ author:
 ogImage:
   url: '${basePath}/assets/blog/iso-3d-printing-tech/cover.jpg'
 ---
-
   
 이번 포스팅에서는 3D 프린터에 대해 알아보고, 3D 프린팅의 기술에는 어떤 방식이나 종류가 있는지 알아보겠습니다.
 
@@ -55,64 +54,62 @@ ogImage:
 
 3D프린터는 재료의 종류 및 형태나, 적층하는 방식, 적층을 위한 광원의 종류 등에 따라 다양하게 구분할 수 있습니다만, 국제 표준을 만들어가는 ISO 기준에서 3D 프린터는 아래의 7가지 방식으로 기술을 분류하며, 각 특징은 다음 표와 같습니다.
 
-<body class="flex items-center justify-center">
-	<div class="container">
-		<table class="w-full flex flex-row flex-no-wrap sm:bg-white rounded-lg overflow-hidden sm:shadow-lg my-5">
-			<thead class="text-white">
-				<tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th class="p-3 text-left">명칭</th>
-					<th class="p-3 text-left">기술분류</th>
-					<th class="p-3 text-left">>설명</th>
-                    <th class="p-3 text-left">>재료</th>
-				</tr>
-				<tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th class="p-3 text-left">명칭</th>
-					<th class="p-3 text-left">기술분류</th>
-					<th class="p-3 text-left">>설명</th>
-                    <th class="p-3 text-left">>재료</th>
-				</tr>
-                <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-                    <th class="p-3 text-left">명칭</th>
-					<th class="p-3 text-left">기술분류</th>
-					<th class="p-3 text-left">>설명</th>
-                    <th class="p-3 text-left">>재료</th>
-                </tr>
-                <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-                    <th class="p-3 text-left">명칭</th>
-					<th class="p-3 text-left">기술분류</th>
-					<th class="p-3 text-left">>설명</th>
-                    <th class="p-3 text-left">>재료</th>
-                </tr>
-			</thead>
-			<tbody class="flex-1 sm:flex-none">
-				<tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-					<td class="border-grey-light border hover:bg-gray-100 p-3">John Covv</td>
-					<td class="border-grey-light border hover:bg-gray-100 p-3 truncate">contato@johncovv.com</td>
-                    <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
-					<td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
-				</tr>
-				<tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-					<td class="border-grey-light border hover:bg-gray-100 p-3">Michael Jackson</td>
-					<td class="border-grey-light border hover:bg-gray-100 p-3 truncate">m_jackson@mail.com</td>
-					<td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
-                    <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
-				</tr>
-                <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-                    <td class="border-grey-light border hover:bg-gray-100 p-3">Julia</td>
-                    <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">julia@mail.com</td>
-                    <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
-                    <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
-                </tr>
-                <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-                  <td class="border-grey-light border hover:bg-gray-100 p-3">Martin Madrazo</td>
-                  <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">martin.madrazo@mail.com</td>
-                  <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
-                  <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
-                </tr>
-			</tbody>
-		</table>
-	</div>
-</body>
+<div class="container">
+    <table class="w-full flex flex-row flex-no-wrap sm:bg-white rounded-lg overflow-hidden sm:shadow-lg my-5">
+        <thead class="text-white">
+            <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+                <th class="p-3 text-left">명칭</th>
+                <th class="p-3 text-left">기술분류</th>
+                <th class="p-3 text-left">>설명</th>
+                <th class="p-3 text-left">>재료</th>
+            </tr>
+            <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+                <th class="p-3 text-left">명칭</th>
+                <th class="p-3 text-left">기술분류</th>
+                <th class="p-3 text-left">>설명</th>
+                <th class="p-3 text-left">>재료</th>
+            </tr>
+            <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+                <th class="p-3 text-left">명칭</th>
+                <th class="p-3 text-left">기술분류</th>
+                <th class="p-3 text-left">>설명</th>
+                <th class="p-3 text-left">>재료</th>
+            </tr>
+            <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+                <th class="p-3 text-left">명칭</th>
+                <th class="p-3 text-left">기술분류</th>
+                <th class="p-3 text-left">>설명</th>
+                <th class="p-3 text-left">>재료</th>
+            </tr>
+        </thead>
+        <tbody class="flex-1 sm:flex-none">
+            <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
+                <td class="border-grey-light border hover:bg-gray-100 p-3">John Covv</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">contato@johncovv.com</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
+            </tr>
+            <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
+                <td class="border-grey-light border hover:bg-gray-100 p-3">Michael Jackson</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">m_jackson@mail.com</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
+            </tr>
+            <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
+                <td class="border-grey-light border hover:bg-gray-100 p-3">Julia</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">julia@mail.com</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
+            </tr>
+            <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
+                <td class="border-grey-light border hover:bg-gray-100 p-3">Martin Madrazo</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">martin.madrazo@mail.com</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
+                <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 <!-- 
 <style>
