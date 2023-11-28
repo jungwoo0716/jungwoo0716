@@ -114,6 +114,7 @@ ogImage:
 	</div>
 </body>
 
+<!-- 
 <style>
   html,
   body {
@@ -138,8 +139,8 @@ ogImage:
     border-bottom: 2px solid rgba(0, 0, 0, .1);
   }
 </style>
+ -->
 
-<!-- 
 <div class="overflow-x-auto">
   <table class="min-w-full divide-y divide-gray-200">
     <thead class="bg-gray-50">
@@ -260,7 +261,7 @@ ogImage:
     </tbody>
   </table>
 </div>
- -->
+
 
   
 
