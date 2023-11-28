@@ -65,6 +65,128 @@ ogImage:
 | (Vat) Photopolymerisation | SLA, DLP | 광, 레이저 조사로 액상 재료를 경화하여 물체를 형성 | 폴리머, 세라믹|
 | Sheet Lamination | Ultrasonic Consolidation, LOM| 얇은 필름 형태의 재료를 칼이나 레이저로 가공하여 접착제 등으로 붙여 물체를 형성 | Hybrids, Metallic, 세라믹 |
 
+<div class="overflow-x-auto">
+  <table class="min-w-full divide-y divide-gray-200">
+    <thead class="bg-gray-50">
+      <tr>
+        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+          명칭
+        </th>
+        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+          기술분류
+        </th>
+        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+          설명
+        </th>
+        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+          재료
+        </th>
+      </tr>
+    </thead>
+    <tbody class="bg-white divide-y divide-gray-200">
+      <tr>
+        <td class="px-6 py-4 whitespace-nowrap">
+          Binder Jetting
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          3DP(CJP), Ink-jetting, S-printer, M-printer
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          파우더 형태의 재료를 접착제를 분사시켜 결합하여 물체를 형성
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          금속, 폴리머, 세라믹
+        </td>
+      </tr>
+      <tr>
+        <td class="px-6 py-4 whitespace-nowrap">
+          Material Jetting
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          PolyJet, Ink-jetting, Thermojet, MJM(MJP)
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          액상재료를 프린팅 노즐을 통해 분사시켜 자외선으로 경화하여 물체를 형성
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          폴리머, 왁스
+        </td>
+      </tr>
+      <tr>
+        <td class="px-6 py-4 whitespace-nowrap">
+          Material Extrusion
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          FDM(FFF)
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          고체 재료를 열을 이용하여 노즐을 통해 분사시켜 물체를 형성
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          폴리머, 나무 등
+        </td>
+      </tr>
+      <tr>
+        <td class="px-6 py-4 whitespace-nowrap">
+          Direct Energy Deposition
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          Direct Metal Deposition, Laser Deposition, Laser Consolidation, Electron Beam Direct Melting
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          레이저나 전자빔으로 재료를 직접 증착 또는 녹여 물체를 형성
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          금속, 와이어
+        </td>
+      </tr>
+      <tr>
+        <td class="px-6 py-4 whitespace-nowrap">
+          Powder Bed Fusion
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          DMLS(DMP), SLM, EBM, SLS
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          파우더 재료를 베드위에 놓고 레이저나 전자빔을 조사하여 선택적으로 소결, 녹여 물체를 형성
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          금속, 폴리머, 세라믹
+        </td>
+      </tr>
+      <tr>
+        <td class="px-6 py-4 whitespace-nowrap">
+          (Vat) Photopolymerisation
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          SLA, DLP
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          광, 레이저 조사로 액상 재료를 경화하여 물체를 형성
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          폴리머, 세라믹
+        </td>
+      </tr>
+      <tr>
+        <td class="px-6 py-4 whitespace-nowrap">
+          Sheet Lamination
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          Ultrasonic Consolidation, LOM
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          얇은 필름 형태의 재료를 칼이나 레이저로 가공하여 접착제 등으로 붙여 물체를 형성
+        </td>
+        <td class="px-6 py-4 whitespace-nowrap">
+          Hybrids, Metallic, 세라믹
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
   
 
 ## 마치며
