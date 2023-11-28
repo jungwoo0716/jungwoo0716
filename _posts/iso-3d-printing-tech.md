@@ -55,9 +55,9 @@ ogImage:
 
 3D프린터는 재료의 종류 및 형태나, 적층하는 방식, 적층을 위한 광원의 종류 등에 따라 다양하게 구분할 수 있습니다만, 국제 표준을 만들어가는 ISO 기준에서 3D 프린터는 아래의 7가지 방식으로 기술을 분류하며, 각 특징은 다음 표와 같습니다.
 
-| 명칭         | 기술분류          | 설명                                                                   | 재료                 |
+|명칭| 기술분류 | 설명                                                                   | 재료|
 | ----------- | --------------- | -------------------------------------------------------------------- | -------------------- |
-|Binder Jetting| 3DP(CJP), Ink-jetting, S-printer, M-printer | 파우더 형태의 재료를 접착제를 분사시켜 결합하여 물체를 형성 | 금속, 폴리머, 세라믹 |
+| Binder Jetting| 3DP(CJP), Ink-jetting, S-printer, M-printer | 파우더 형태의 재료를 접착제를 분사시켜 결합하여 물체를 형성 | 금속, 폴리머, 세라믹 |
 | Material Jetting| PolyJet, Ink-jetting, Thermojet, MJM(MJP) | 액상재료를 프린팅 노즐을 통해 분사시켜 자외선으로 경화하여 물체를 형성 | 폴리머, 왁스 |
 | Material Extrusion| FDM(FFF)| 고체 재료를 열을 이용하여 노즐을 통해 분사시켜 물체를 형성 | 폴리머, 나무 등 |
 | Direct Energy Deposition| Direct Metal Deposition, Laser Deposition, Laser Consolidation, Electron Beam Direct Melting | 레이저나 전자빔으로 재료를 직접 증착 또는 녹여 물체를 형성 | 금속, 와이어 |
