@@ -55,16 +55,91 @@ ogImage:
 
 3D프린터는 재료의 종류 및 형태나, 적층하는 방식, 적층을 위한 광원의 종류 등에 따라 다양하게 구분할 수 있습니다만, 국제 표준을 만들어가는 ISO 기준에서 3D 프린터는 아래의 7가지 방식으로 기술을 분류하며, 각 특징은 다음 표와 같습니다.
 
-|명칭| 기술분류 | 설명                                                                   | 재료|
-| ----------- | --------------- | -------------------------------------------------------------------- | -------------------- |
-| Binder Jetting| 3DP(CJP), Ink-jetting, S-printer, M-printer | 파우더 형태의 재료를 접착제를 분사시켜 결합하여 물체를 형성 | 금속, 폴리머, 세라믹 |
-| Material Jetting| PolyJet, Ink-jetting, Thermojet, MJM(MJP) | 액상재료를 프린팅 노즐을 통해 분사시켜 자외선으로 경화하여 물체를 형성 | 폴리머, 왁스 |
-| Material Extrusion| FDM(FFF)| 고체 재료를 열을 이용하여 노즐을 통해 분사시켜 물체를 형성 | 폴리머, 나무 등 |
-| Direct Energy Deposition| Direct Metal Deposition, Laser Deposition, Laser Consolidation, Electron Beam Direct Melting | 레이저나 전자빔으로 재료를 직접 증착 또는 녹여 물체를 형성 | 금속, 와이어 |
-| Powder Bed Fusion | DMLS(DMP), SLM, EBM, SLS | 파우더 재료를 베드위에 놓고 레이저나 전자빔을 조사하여 선택적으로 소결, 녹여 물체를 형성 | 금속, 폴리머, 세라믹 |
-| (Vat) Photopolymerisation | SLA, DLP | 광, 레이저 조사로 액상 재료를 경화하여 물체를 형성 | 폴리머, 세라믹|
-| Sheet Lamination | Ultrasonic Consolidation, LOM| 얇은 필름 형태의 재료를 칼이나 레이저로 가공하여 접착제 등으로 붙여 물체를 형성 | Hybrids, Metallic, 세라믹 |
+<body class="flex items-center justify-center">
+	<div class="container">
+		<table class="w-full flex flex-row flex-no-wrap sm:bg-white rounded-lg overflow-hidden sm:shadow-lg my-5">
+			<thead class="text-white">
+				<tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th class="p-3 text-left">명칭</th>
+					<th class="p-3 text-left">기술분류</th>
+					<th class="p-3 text-left">>설명</th>
+                    <th class="p-3 text-left">>재료</th>
+				</tr>
+				<tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th class="p-3 text-left">명칭</th>
+					<th class="p-3 text-left">기술분류</th>
+					<th class="p-3 text-left">>설명</th>
+                    <th class="p-3 text-left">>재료</th>
+				</tr>
+                <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+                    <th class="p-3 text-left">명칭</th>
+					<th class="p-3 text-left">기술분류</th>
+					<th class="p-3 text-left">>설명</th>
+                    <th class="p-3 text-left">>재료</th>
+                </tr>
+                <tr class="bg-teal-400 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+                    <th class="p-3 text-left">명칭</th>
+					<th class="p-3 text-left">기술분류</th>
+					<th class="p-3 text-left">>설명</th>
+                    <th class="p-3 text-left">>재료</th>
+                </tr>
+			</thead>
+			<tbody class="flex-1 sm:flex-none">
+				<tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
+					<td class="border-grey-light border hover:bg-gray-100 p-3">John Covv</td>
+					<td class="border-grey-light border hover:bg-gray-100 p-3 truncate">contato@johncovv.com</td>
+                    <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
+					<td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
+				</tr>
+				<tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
+					<td class="border-grey-light border hover:bg-gray-100 p-3">Michael Jackson</td>
+					<td class="border-grey-light border hover:bg-gray-100 p-3 truncate">m_jackson@mail.com</td>
+					<td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
+                    <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
+				</tr>
+                <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
+                    <td class="border-grey-light border hover:bg-gray-100 p-3">Julia</td>
+                    <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">julia@mail.com</td>
+                    <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
+                    <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
+                </tr>
+                <tr class="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
+                  <td class="border-grey-light border hover:bg-gray-100 p-3">Martin Madrazo</td>
+                  <td class="border-grey-light border hover:bg-gray-100 p-3 truncate">martin.madrazo@mail.com</td>
+                  <td class="border-grey-light border hover:bg-gray-100 p-3 text-red-400 hover:text-red-600 hover:font-medium cursor-pointer">Delete</td>
+                  <td class="border-grey-light border hover:bg-gray-100 p-3">금속, 폴리머, 세라믹</td>
+                </tr>
+			</tbody>
+		</table>
+	</div>
+</body>
 
+<style>
+  html,
+  body {
+    height: 100%;
+  }
+
+  @media (min-width: 640px) {
+    table {
+      display: inline-table !important;
+    }
+
+    thead tr:not(:first-child) {
+      display: none;
+    }
+  }
+
+  td:not(:last-child) {
+    border-bottom: 0;
+  }
+
+  th:not(:last-child) {
+    border-bottom: 2px solid rgba(0, 0, 0, .1);
+  }
+</style>
+
+<!-- 
 <div class="overflow-x-auto">
   <table class="min-w-full divide-y divide-gray-200">
     <thead class="bg-gray-50">
@@ -185,7 +260,7 @@ ogImage:
     </tbody>
   </table>
 </div>
-
+ -->
 
   
 
