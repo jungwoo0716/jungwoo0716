@@ -111,13 +111,8 @@ ogImage:
     </table>
 </div>
 
-<!-- 
-<style>
-  html,
-  body {
-    height: 100%;
-  }
 
+<style>
   @media (min-width: 640px) {
     table {
       display: inline-table !important;
@@ -136,7 +131,7 @@ ogImage:
     border-bottom: 2px solid rgba(0, 0, 0, .1);
   }
 </style>
- -->
+
 
 <div class="overflow-x-auto">
   <table class="min-w-full divide-y divide-gray-200">
