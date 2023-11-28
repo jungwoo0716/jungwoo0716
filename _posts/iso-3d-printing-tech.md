@@ -73,7 +73,7 @@ ogImage:
       </tr>
     </thead>
     <tbody class="bg-white divide-y divide-gray-200">
-      <tr>
+      <tr class="border-gray-700">
         <td class="px-6 py-4 whitespace-nowrap">
           Binder<br/>
           Jetting
