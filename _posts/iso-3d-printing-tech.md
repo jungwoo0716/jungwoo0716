@@ -75,7 +75,8 @@ ogImage:
     <tbody class="bg-white divide-y divide-gray-200">
       <tr>
         <td class="px-6 py-4 whitespace-nowrap">
-          Binder Jetting
+          Binder<br/>
+          Jetting
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           3DP(CJP)<br/> 
@@ -94,7 +95,8 @@ ogImage:
       </tr>
       <tr>
         <td class="px-6 py-4 whitespace-nowrap">
-          Material Jetting
+          Material<br/>
+          Jetting
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           PolyJet<br/>
@@ -112,7 +114,8 @@ ogImage:
       </tr>
       <tr>
         <td class="px-6 py-4 whitespace-nowrap">
-          Material Extrusion
+          Material<br/>
+          Extrusion
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           FDM(FFF)
@@ -127,7 +130,8 @@ ogImage:
       </tr>
       <tr>
         <td class="px-6 py-4 whitespace-nowrap">
-          Direct Energy Deposition
+          Direct Energy<br/>
+          Deposition
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           Direct Metal Deposition<br/>
@@ -145,7 +149,9 @@ ogImage:
       </tr>
       <tr>
         <td class="px-6 py-4 whitespace-nowrap">
-          Powder Bed Fusion
+          Powder<br/>
+          Bed<br/>
+          Fusion
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           DMLS(DMP), SLM, EBM, SLS
@@ -154,12 +160,16 @@ ogImage:
           파우더 재료를 베드위에 놓고 레이저나 전자빔을 조사하여 선택적으로 소결, 녹여 물체를 형성
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
-          금속, 폴리머, 세라믹
+          금속<br/>
+          폴리머<br/>
+          세라믹
         </td>
       </tr>
       <tr>
         <td class="px-6 py-4 whitespace-nowrap">
-          (Vat) Photopolymerisation
+          (Vat)<br/>
+          Photo<br/>
+          polymerisation
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           SLA<br/>
@@ -175,7 +185,8 @@ ogImage:
       </tr>
       <tr>
         <td class="px-6 py-4 whitespace-nowrap">
-          Sheet Lamination
+          Sheet<br/>
+          Lamination
         </td>
         <td class="px-6 py-4 whitespace-nowrap">
           Ultrasonic Consolidation<br/>
