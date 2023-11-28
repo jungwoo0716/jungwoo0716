@@ -54,6 +54,8 @@ ogImage:
 
 3D프린터는 재료의 종류 및 형태나, 적층하는 방식, 적층을 위한 광원의 종류 등에 따라 다양하게 구분할 수 있습니다만, 국제 표준을 만들어가는 ISO 기준에서 3D 프린터는 아래의 7가지 방식으로 기술을 분류하며, 각 특징은 다음 표와 같습니다.
 
+![](${basePath}/assets/blog/iso-3d-printing-tech/img1.jpg)  
+
 <div class="overflow-x-auto">
   <table class="min-w-full divide-y divide-gray-200">
     <thead class="bg-gray-50">
