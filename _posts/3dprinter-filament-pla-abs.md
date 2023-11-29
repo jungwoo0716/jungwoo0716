@@ -43,7 +43,7 @@ ogImage:
 
   
 
-## **3\. PLA (**Polylactide)**
+## **3\. PLA (Polylactide)**
 
 PLA는 생분해성 열가소성 수지로 옥수수의 전분에서 추출한 젖산(lactic acid)을 발효 및 중합하여 만들어진 친환경 소재라고 부릅니다.
 
