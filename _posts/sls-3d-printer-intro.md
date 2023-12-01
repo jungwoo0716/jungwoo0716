@@ -2,7 +2,7 @@
 title: 'SLS 3D 프린터 소개 (역사, SLM 비교,  장단점, 가격)'
 excerpt: '선택적 레이저 소결 방식으로 불리는 SLS (Selective Laser Sintering) 3D 프린터에 대해 소개하겠습니다. SLS 3D 프린터는 SLS 방식으로 작동하는 3D 프린터입니다. SLS 방식이 어떻게 탄생했고, 원리와 장단점이 무엇인지, 실제 시중에 판매하고 있는 제품의 가격에 대해서도 알아보겠습니다.'
 coverImage: '${basePath}/assets/blog/sls-3d-printer-intro/cover.jpg'
-date: '2023-11-01T08:00:07.322Z'
+date: '2023-11-04T09:15:07.322Z'
 author:
   name: JW.Kim
   picture: '${basePath}/assets/blog/authors/kr.png'

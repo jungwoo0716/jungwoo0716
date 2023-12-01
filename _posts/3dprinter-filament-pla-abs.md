@@ -2,7 +2,7 @@
 title: 'FDM 3D 프린터 자주 쓰는 필라멘트/레진 재료 종류 (PLA, ABS 등)'
 excerpt: '대중적으로 사용되고 있는 FDM/FFF 방식의 3D 프린터에서는 열가소성 플라스틱을 많이 사용하고 있습니다. 우리가 흔히 말하는 필라멘트가 바로 열가소성 플라스틱으로 커버의 이미지처럼 스풀 형태로 만들어져있습니다. 국내에서는 PLA 를 가장 많이 사용하고 있으며, 전세계적으로는 ABS 재료를 가장 많이 사용하고 있습니다.'
 coverImage: '${basePath}/assets/blog/3dprinter-filament-pla-abs/cover.jpg'
-date: '2023-11-04T05:35:07.322Z'
+date: '2023-11-14T09:15:07.322Z'
 author:
   name: JW.Kim
   picture: '${basePath}/assets/blog/authors/kr.png'

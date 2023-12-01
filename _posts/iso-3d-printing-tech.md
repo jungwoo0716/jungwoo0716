@@ -2,7 +2,7 @@
 title: '3D 프린터의 정의 및 기술 분류 (3D 프린팅 개념, 기술, ISO 분류'
 excerpt: '3D 프린팅 기술은 무엇일까요? 3차원 공간에 합성수지, 급속, 박막소재 등의 재료를 적층 가공(Additive manufacturing; AM)으로 쌓아올려 3차원 물체를 만들 수 있는 기술을 의미합니다. 3D프린팅 기술은 기존의 대량생산 체제의 제조방식과 다르게, 신제품 제조에 들어가는 시간과 비용을 최소화 할 수 있습니다.'
 coverImage: '${basePath}/assets/blog/iso-3d-printing-tech/cover.jpg'
-date: '2023-11-27T08:00:07.322Z'
+date: '2023-11-18T09:15:07.322Z'
 author:
   name: JW.Kim
   picture: '${basePath}/assets/blog/authors/kr.png'

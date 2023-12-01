@@ -2,7 +2,7 @@
 title: '3d 프린터 SLA 방식 소개 (원리, 역사, 장단점)'
 excerpt: '3D 프린터 종류 중 하나인 SLA 방식의 3D 프린터의 원리에 대해 알아보고, 어떻게 탄생했는지와 프린터가 갖고 있는 장단점에 대해 알아보겠습니다.'
 coverImage: '${basePath}/assets/blog/sla-3d-printer-intro/cover.jpg'
-date: '2023-11-03T05:35:07.322Z'
+date: '2023-11-11T09:15:07.322Z'
 author:
   name: JW.Kim
   picture: '${basePath}/assets/blog/authors/kr.png'

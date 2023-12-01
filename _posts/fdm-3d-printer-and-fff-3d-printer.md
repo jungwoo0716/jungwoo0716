@@ -2,7 +2,7 @@
 title: '3d 프린터 FDM 방식과 FFF 방식 (역사, 원리, 장단점, 레진)'
 excerpt: '3D 프린터 FDM 방식과 FFF 프린터 방식 모두 소재 압출 방식을 사용하고 있습니다. 소재 압출 방식은 대중에게 가장 널리 알려지고 보급된 3D 프린터에 주로 사용합니다. ABS나 PLA 소재 등과 같이 열가소성 재료를 필라멘트 형태로 만들어 고온의 압출기에서 녹여 원하는 구조물 형태로 적층 제조하는 방식입니다. 주변에 쉽게 사용할 수 있는 3D프린팅 펜도 이와 같은 방식을 사용합니다.'
 coverImage: '${basePath}/assets/blog/fdm-3d-printer-and-fff-3d-printer/cover.jpg'
-date: '2023-11-02T05:35:07.322Z'
+date: '2023-11-07T09:15:07.322Z'
 author:
   name: JW.Kim
   picture: '${basePath}/assets/blog/authors/kr.png'
