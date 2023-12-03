@@ -38,6 +38,7 @@ const Meta = () => {
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
       <meta name="google-site-verification" content="KzlsKQF7AFEoHXuXUBvLrXJehghsraUq0Kdc49wKbrA" />
+      <meta name="google-site-verification" content="gIiZlPtvReoFUr7eNqK3sIygXiwZCEPW83Wz1wtk604" />
     </Head>
   )
 }
