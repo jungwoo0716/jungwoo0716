@@ -16,7 +16,8 @@ const Header = () => {
       </Link>
       .
     </h2>
-    <header>        
+    <header>
+        <meta name="google-site-verification" content="gIiZlPtvReoFUr7eNqK3sIygXiwZCEPW83Wz1wtk604" />        
         <Script
         async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1067668052326016"
