@@ -39,7 +39,7 @@ CIJ 방식은 연속적으로 프린팅하기 때문에 많은 양의 소재가 
 
   
 
-- [결합제 분사 방식에 대해 알아보기](https://https://jungwoo0716.github.io/posts/cjp-3d-printer-binder-jetting)
+- [결합제 분사 방식에 대해 알아보기](https://jungwoo0716.github.io/posts/cjp-3d-printer-binder-jetting)
 
   
 
