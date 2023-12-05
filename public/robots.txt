@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://jungwoo0716.github.io/
-
-# Sitemaps
-Sitemap: https://jungwoo0716.github.io/sitemap.xml
